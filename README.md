@@ -12,9 +12,9 @@ reasonably fast 32GB SD card. They have Debian-based Raspbian 9 and a
 selection of potentially useful libraries and utilities already installed.
 The full lists of packages are found in `doc` directory.
 
-* https://github.com/poplatek/junction18-public/blob/master/doc/installed_packages.txt - Installed Raspbian/Debian packages
-* https://github.com/poplatek/junction18-public/blob/master/doc/installed_pip_packages.txt - Installed pip packages (for Python 2)
-* https://github.com/poplatek/junction18-public/blob/master/doc/installed_pip3_packages.txt - Installed pip3 packages (for Python 3)
+* (Installed Raspbian/Debian packages)[doc/installed_packages.txt]
+* (Installed pip packages for Python 2)[doc/installed_pip_packages.txt]
+* (Installed pip3 packages for Python 3)[doc/installed_pip3_packages.txt]
 
 Incoming network connections are allowed only to port 22 (SSH), but this can be configured easily with `ufw`.
 
