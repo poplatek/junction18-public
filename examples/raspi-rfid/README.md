@@ -25,7 +25,7 @@ The names of the connections on the RFID reader can be found at the root of thei
 See the image below for a reference on the names of the pins on the Raspberry Pi, along with an example
 recommended wiring layout for the RFID reader.
 
-![GPIO pins](gpio-numbers-pi.png "GPIO pin layout for the Raspberry Pi 3+, with annotations showing an example wiring for the RFID reader")
+![GPIO pins](gpio-numbers-rfid.png "GPIO pin layout for the Raspberry Pi 3+, with annotations showing an example wiring for the RFID reader")
 
 You can find more information about GPIO pin layouts on the Raspberry Pi at https://www.raspberrypi.org/documentation/usage/gpio/
 
