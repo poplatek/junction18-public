@@ -1,0 +1,17 @@
+pcm.jabbra {
+    type hw
+    card 1
+    device 0
+    rate 48000
+}
+pcm.!default {
+  type asym
+   playback.pcm {
+     type plug
+     slave.pcm "jabbra"
+   }
+   capture.pcm {
+     type plug
+     slave.pcm "hw:1,0"
+   }
+}
