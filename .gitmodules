@@ -1,0 +1,9 @@
+[submodule "examples/bluetooth/pybluez"]
+	path = examples/bluetooth/pybluez
+	url = https://github.com/pybluez/pybluez.git
+[submodule "examples/bluetooth/py-beacon"]
+	path = examples/bluetooth/py-beacon
+	url = https://github.com/taka-wang/py-beacon.git
+[submodule "examples/bluetooth/iBeacon-Scanner"]
+	path = examples/bluetooth/iBeacon-Scanner
+	url = https://github.com/ashokgelal/iBeacon-Scanner.git
