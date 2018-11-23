@@ -28,3 +28,4 @@ key) have to be configured to `~/.aws/credentials`.
 - WiFi is really bad now so it’s probably not usable. Also the WiFi information we got in advance has been changed. Wired ethernet should work as long as it gets a DHCP address.
 - You can use monitor with HDMI and USB keyboard, or access RasPi over the net with SSH. They should answer to the address “poplahackXX.local” (look at the label) when you’re connected to the same network with the RasPi.
 - Default username is ‘pi’ and you can get password from our people at our stand, or using Slack.
+- (edit) If you find password too difficult just change it, but remember that anyone in the same network can access it. You can also use SSH keys for the access without passwords, which is also more secure. Just google for SSH key authentication or ask for help, if required.
