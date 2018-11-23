@@ -7,10 +7,11 @@ Raspberry Pi modules and AWS services that may be useful in the challenge.
 Pre-configured Raspberry Pis
 ----------------------------
 
-For the challenge we can lend a few Raspberry Pis (3 Model B+) with a
+For the challenge we can lend a Raspberry Pi (3 Model B+) with a
 reasonably fast 32GB SD card. They have Debian-based Raspbian 9 and a
 selection of potentially useful libraries and utilities already installed.
-The full lists of packages are found in `doc` directory.
+The full lists of packages are found in `doc` directory. Depending on the
+amount of participating teams you might get more than one RasPi.
 
 * [Installed Raspbian/Debian packages](doc/installed_packages.txt)
 * [Installed pip packages for Python 2](doc/installed_pip_packages.txt)
